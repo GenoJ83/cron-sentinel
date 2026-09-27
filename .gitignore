@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+heartbeats/
+.pytest_cache/
+.DS_Store
