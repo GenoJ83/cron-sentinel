@@ -1,0 +1,11 @@
+{
+  "name": "cron-sentinel",
+  "version": "1.1.0",
+  "main": "js/cron_watchdog.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
